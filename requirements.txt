@@ -2,3 +2,4 @@ streamlit
 PyMuPDF
 sentence-transformers
 pinecone-client
+google-generativeai
