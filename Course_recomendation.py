@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-st.title("Course Recommendation Planner")
+st.title("Course Recommendation System Using AI")
 
 # Directly setting the Gemini API Key
 GOOGLE_API_KEY = "AIzaSyBWyvKUaTQLGhaiwYuNexY_6VvuulW6fhw"
